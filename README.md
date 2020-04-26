@@ -1,6 +1,6 @@
 # nodejs-socket-server
 
-> A Vue.js project
+> A Nodejs project
 
 ## Build Setup
 
